@@ -1,0 +1,13 @@
+<!DOCTYPE QPH>
+<QPH language="ru_RU">
+<phrase>
+    <source>Конвертировать</source>
+    <target>Convert</target>
+    <definition>convert</definition>
+</phrase>
+<phrase>
+    <source>О программе</source>
+    <target>About</target>
+    <definition>about</definition>
+</phrase>
+</QPH>

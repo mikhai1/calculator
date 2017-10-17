@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/style.qss</file>
+        <file>fonts/MyriadPro-Regular.otf</file>
+    </qresource>
+</RCC>
